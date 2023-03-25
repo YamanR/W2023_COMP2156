@@ -10,7 +10,7 @@
     "deploy": "gh-pages -d build",
     "test": "echo \"Warning: No tests created yet.\"",
     "eject": "react-scripts eject"
-  },  
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/YamanR/W2023_COMP2156.git"
